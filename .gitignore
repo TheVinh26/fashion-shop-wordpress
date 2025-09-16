@@ -1,0 +1,13 @@
+# Ignore Operating System
+.DS_Store
+Thumbs.db
+
+# Ignore WordPress core uploads
+wp-content/uploads/
+
+# Ignore cache
+wp-content/cache/
+wp-content/backups/
+
+# Ignore cấu hình cá nhân
+wp-config.php
